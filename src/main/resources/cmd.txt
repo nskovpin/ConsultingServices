@@ -1,0 +1,1 @@
+"C:\Program Files\Java\jdk1.7.0_21\bin\wsimport.exe" -Xnocompile -keep -d src -p ru.atconsulting.bigdata.client.glassfish.crm http://ms-glass006:4466/CRMOperationsUrl?wsdl -b src/main/resources/binding.xml
